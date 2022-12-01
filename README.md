@@ -4,4 +4,4 @@ A Crypto Marketplace App created with
 - Tailwind
 - React Router
 - React Axios
-
+- ChartJs
